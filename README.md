@@ -58,8 +58,10 @@ Player plays the dice guessing game.
 
 ---
 
-## Activity Diagram
+## Diagrams
 
+![Diagram](diagram.png)
+---
 Start
 → Choose number
 → Click Play
